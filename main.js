@@ -170,7 +170,7 @@ function setGenreData(location) {
                 div2.transition().style("opacity", 1);	
                 div2.html(genre.Genre + "<br/>" + parseInt(genre[location]) + "m sales")
                     .style("left", (x(genre.Genre)) + margin.left + 35 + "px")		
-                    .style("top", y(parseFloat(genre[location])) + graph_3_height - 45 + "px")
+                    .style("top", y(parseFloat(genre[location])) + graph_3_height - 5 + "px")
                     .style("background-color","rgba(200, 200, 255, 0.9)")
                     .style("color","black")
                     .style("padding", "5px")
@@ -325,7 +325,7 @@ function setPubData(genre) {
 
                 div3.html(entry.publisher + "<br/>" + entry.year + ' - ' + parseFloat(entry.sales) + "m sales")
                     .style("left", (x3(parseInt(entry.year)) + 260) + "px")		
-                    .style("top", (y3(parseFloat(entry.sales)) + graph_1_height + graph_2_height + 650) + "px")
+                    .style("top", (y3(parseFloat(entry.sales)) + graph_1_height + graph_2_height + 720) + "px")
                     .style("background-color","rgba(200, 200, 255, 0.9)")
                     .style("color","black")
                     .style("padding", "5px")
