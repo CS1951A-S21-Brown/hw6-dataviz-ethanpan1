@@ -1,27 +1,166 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <meta charset="utf-8">
-        <title>Assignment 6 &laquo; Data Visualization Dashboard&raquo;</title>
-        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
-        <link rel="stylesheet" href="main.css"/>
-        <!--Feel free to add more CSS files as needed-->
-        <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
-    </head>
+    <meta charset="utf-8">
+    <title>Assignment 6 &laquo; Data Visualization Dashboard&raquo;</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="main.css"/>
+    <link rel="stylesheet" href="new.css"/>
+    <!--Feel free to add more CSS files as needed-->
+    <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/d3-regression@1.3.4/dist/d3-regression.min.js"></script>
+</head>
 <body>
     <div class="header">
         <h3>Assignment 6 &laquo; Data Visualization Dashboard &raquo;</h3>
+        <h5>A dashboard for understanding global video game sales</h5>
     </div>
     <!--  We included a basic HTML structure for the 3 graphs here. Feel free to change this if you'd like  -->
-    <div class="row">
-        <div class="col-lg-6">
+    
+    <div class="column">
+        <div class="row graph-container">
+            <h5>Graph 1</h5>
+            
             <div id="graph1"></div>
-            <div id="graph2"></div><br/>
         </div>
-        <div class="col-lg-6">
+        <div class="row graph-container">
+            <h5>Graph 2</h5>
+            <br/>
+            Toggle region to look at each region's genre performance.
+            <div class="btn-group">
+                <a class="btn btn-primary" style="color:white" onclick="setGenreData('Global_Sales')">Global</a>
+                <a class="btn btn-primary" style="color:white" onclick="setGenreData('NA_Sales')">North America</a>
+                <a class="btn btn-primary" style="color:white" onclick="setGenreData('EU_Sales')">Europe</a>
+                <a class="btn btn-primary" style="color:white" onclick="setGenreData('JP_Sales')">Japan</a>
+                <a class="btn btn-primary" style="color:white" onclick="setGenreData('Other_Sales')">Other</a>
+            </div>
+            <br/>
+            <div id="graph2"></div>
+            <br/>
+        </div>
+        <div class="row graph-container">
+            <h5>Graph 3</h5>
+            <div style="max-width: 600px">
+                <br/>
+                Toggle genre to look at each genre's best publishers. 
+                <br/>
+                For each genre, the five best sellers from 2007-2016 are shown.
+                <br/>
+                <br/>
+                <b>Yearly sales only indicate sales of games first sold in that year, not total sales that year</b> (e.g., Take-Two Interactive didn't release an action game in 2012 but likely had action game sales that year).
+                <br/>
+                <br/>
+                Mouse over a data point for more information on that publisher's performance.
+            </div>
+            <br/>
+            <div class="dropdown">
+                <a class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Genre
+                </a>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" onclick="setPubData('Action')">Action</a>
+                    <a class="dropdown-item" onclick="setPubData('Adventure')">Adventure</a>
+                    <a class="dropdown-item" onclick="setPubData('Fighting')">Fighting</a>
+                    <a class="dropdown-item" onclick="setPubData('Misc')">Misc</a>
+                    <a class="dropdown-item" onclick="setPubData('Platform')">Platform</a>
+                    <a class="dropdown-item" onclick="setPubData('Puzzle')">Puzzle</a>
+                    <a class="dropdown-item" onclick="setPubData('Racing')">Racing</a>
+                    <a class="dropdown-item" onclick="setPubData('Role-Playing')">Role-Playing</a>
+                    <a class="dropdown-item" onclick="setPubData('Shooter')">Shooter</a>
+                    <a class="dropdown-item" onclick="setPubData('Simulation')">Simulation</a>
+                    <a class="dropdown-item" onclick="setPubData('Sports')">Sports</a>
+                    <a class="dropdown-item" onclick="setPubData('Strategy')">Strategy</a>
+                </div>
+            </div>
+            <br/>
             <div id="graph3"></div>
         </div>
     </div>
+    <br>
+    <br>
+    <div style="display: flex; flex-flow: column wrap; align-items: center;">
+        <h3 >Written Questions</h3>
+        <ol style="max-width: 1000px;">
+            <li>
+                <ol>
+                    <li>
+                        Graph 1 answers Q1.
+                    </li>
+                    <li>
+                        Graph 2 answers Q2 (the largest bar is the best genre of that region).
+                    </li>
+                    <li>
+                        Graph 3 answers Q3; each genre is given a top publisher who has the largest amount of sales
+                        in that genre in the most recent 10 years represented in the dataset.
+                    </li>
+                </ol> 
+            </li>
+            <br>
+            <li>
+                <ol>
+                    <li>
+                        D3 allowed me to easily apply the same transform function to every item (bar, dot, label) that I needed to transform.
+                    </li>
+                    <li>
+                        D3 easily handled color through interpolating a gradient or providing a scheme set, improving readability and visual interest.
+                    </li>
+                    <li>
+                        D3, through SVGs, allowed for easily scalable graphics, making my visualizations less reliant on hard-coded positioning and allowing for legible rescaling.
+                    </li>
+                </ol> 
+            </li>
+            <br>
+            <li>
+                <ol>
+                    <li>
+                        D3 would not be useful for creating a really simple visualization that doesn't need to be rescaled; other libraries like matplotlib can do that more easily.
+                    </li>
+                    <li>
+                        D3 may not be the best tool if the final visualization is not intended to be displayed on a web browser.
+                    </li>
+                    <li>
+                        Since D3 is written in JS, it fits less well in a streamlined Python-based pipeline that relies on pandas or numpy analysis.
+                    </li>
+                </ol> 
+            </li>
+            <br>
+            <li>
+                I think my dashboard has moderate accessibility. It follows color contrast guidelines fairly well, as
+                described by Miller's article. For the most part, data points are labelled directly, although there is
+                a separated color legend for the third graph. For the most part, color-blind users would be able to
+                use my dashboard well.
+                <br>
+                <br>
+                For assistive technology users, my dashboard is less accessible. Also to Miller's article, I refrain from
+                complex tooling, but I do use hover overlays for the second two graphs. In addition, I don't use alt text,
+                and the third graph is perhaps too busy to be comprehensible for AT. In the future, I would remove the
+                hover overlays, turn the third graph into multiple graphs, and add more alt text.
+                <br><br>
+                Since I don't use symbols or sound, my dashboard is fairly accessible to those with various
+                cognitive disabilities or those that are Deaf (according to Schepers's article).
+            </li>
+            <br>
+            <li>
+                For certain places that I did not choose the more accessible option (e.g., the color legend), the main
+                reason was because I didn't know how to make the more accessible option through D3. For instance, while
+                I could've added hard-coded direct color labelling for one graph, I didn't know how to do it for all 
+                twelve genre graphs altogether. Time was also a major factor. For example, I know how to expand the third
+                graph into a sequence of five graphs with one publisher on each, but I didn't have the time to take this
+                extra step.
+            </li>
+        </ol>
+        <br>
+        <p style="max-width: 1000px;">
+            Extra Credit: I added a dynamic statistical calculation in the third graph. For any given publisher in
+        a given genre, if you mouse over a data point, a linear regression line for that publisher's performance is shown.
+        This calculation is statistical because it approximates the general trend of the publisher's performance
+        via the x-y coordinates of the data points in the graph.
+        </p>
+    </div>
+    <br>
     <!--Feel free to add more JavaScript files as needed-->
     <script type="text/javascript" src="main.js"></script>
 </body>

@@ -1,0 +1,601 @@
+Genre,Year,Publisher,Global_Sales
+Action,2007.0,Activision,9.21
+Action,2007.0,Sony Computer Entertainment,11.36
+Action,2007.0,Take-Two Interactive,3.67
+Action,2007.0,Ubisoft,2.91
+Action,2007.0,Warner Bros. Interactive Entertainment,1.4
+Action,2008.0,Activision,21.36
+Action,2008.0,Sony Computer Entertainment,3.47
+Action,2008.0,Take-Two Interactive,27.89
+Action,2008.0,Ubisoft,7.84
+Action,2008.0,Warner Bros. Interactive Entertainment,10.74
+Action,2009.0,Activision,18.99
+Action,2009.0,Sony Computer Entertainment,13.19
+Action,2009.0,Take-Two Interactive,5.36
+Action,2009.0,Ubisoft,17.36
+Action,2009.0,Warner Bros. Interactive Entertainment,2.46
+Action,2010.0,Activision,6.5
+Action,2010.0,Sony Computer Entertainment,6.3
+Action,2010.0,Take-Two Interactive,26.3
+Action,2010.0,Ubisoft,12.66
+Action,2010.0,Warner Bros. Interactive Entertainment,11.4
+Action,2011.0,Activision,8.83
+Action,2011.0,Sony Computer Entertainment,9.9
+Action,2011.0,Take-Two Interactive,0.48
+Action,2011.0,Ubisoft,11.89
+Action,2011.0,Warner Bros. Interactive Entertainment,11.75
+Action,2012.0,Activision,14.8
+Action,2012.0,Sony Computer Entertainment,6.91
+Action,2012.0,Take-Two Interactive,0.0
+Action,2012.0,Ubisoft,16.09
+Action,2012.0,Warner Bros. Interactive Entertainment,13.57
+Action,2013.0,Activision,1.33
+Action,2013.0,Sony Computer Entertainment,2.38
+Action,2013.0,Take-Two Interactive,37.78
+Action,2013.0,Ubisoft,15.44
+Action,2013.0,Warner Bros. Interactive Entertainment,15.81
+Action,2014.0,Activision,6.72
+Action,2014.0,Sony Computer Entertainment,8.05
+Action,2014.0,Take-Two Interactive,17.06
+Action,2014.0,Ubisoft,19.84
+Action,2014.0,Warner Bros. Interactive Entertainment,18.4
+Action,2015.0,Activision,3.3
+Action,2015.0,Sony Computer Entertainment,7.69
+Action,2015.0,Take-Two Interactive,1.08
+Action,2015.0,Ubisoft,5.38
+Action,2015.0,Warner Bros. Interactive Entertainment,17.64
+Action,2016.0,Activision,0.23
+Action,2016.0,Sony Computer Entertainment,1.19
+Action,2016.0,Take-Two Interactive,0.0
+Action,2016.0,Ubisoft,3.77
+Action,2016.0,Warner Bros. Interactive Entertainment,3.52
+Adventure,2007.0,Disney Interactive Studios,3.08
+Adventure,2007.0,Nintendo,2.07
+Adventure,2007.0,Sony Computer Entertainment,0.08
+Adventure,2007.0,Take-Two Interactive,0.17
+Adventure,2007.0,Ubisoft,11.37
+Adventure,2008.0,Disney Interactive Studios,6.59
+Adventure,2008.0,Nintendo,1.3
+Adventure,2008.0,Sony Computer Entertainment,0.04
+Adventure,2008.0,Take-Two Interactive,0.36
+Adventure,2008.0,Ubisoft,3.01
+Adventure,2009.0,Disney Interactive Studios,3.08
+Adventure,2009.0,Nintendo,1.56
+Adventure,2009.0,Sony Computer Entertainment,0.21
+Adventure,2009.0,Take-Two Interactive,0.26
+Adventure,2009.0,Ubisoft,2.21
+Adventure,2010.0,Disney Interactive Studios,2.05
+Adventure,2010.0,Nintendo,0.81
+Adventure,2010.0,Sony Computer Entertainment,3.28
+Adventure,2010.0,Take-Two Interactive,0.0
+Adventure,2010.0,Ubisoft,1.58
+Adventure,2011.0,Disney Interactive Studios,0.0
+Adventure,2011.0,Nintendo,0.39
+Adventure,2011.0,Sony Computer Entertainment,1.35
+Adventure,2011.0,Take-Two Interactive,6.2
+Adventure,2011.0,Ubisoft,0.71
+Adventure,2012.0,Disney Interactive Studios,0.0
+Adventure,2012.0,Nintendo,0.22
+Adventure,2012.0,Sony Computer Entertainment,0.24
+Adventure,2012.0,Take-Two Interactive,0.0
+Adventure,2012.0,Ubisoft,0.0
+Adventure,2013.0,Disney Interactive Studios,0.0
+Adventure,2013.0,Nintendo,0.92
+Adventure,2013.0,Sony Computer Entertainment,1.9
+Adventure,2013.0,Take-Two Interactive,0.0
+Adventure,2013.0,Ubisoft,0.0
+Adventure,2014.0,Disney Interactive Studios,0.0
+Adventure,2014.0,Nintendo,0.0
+Adventure,2014.0,Sony Computer Entertainment,0.0
+Adventure,2014.0,Take-Two Interactive,0.0
+Adventure,2014.0,Ubisoft,0.0
+Adventure,2015.0,Disney Interactive Studios,0.0
+Adventure,2015.0,Nintendo,0.0
+Adventure,2015.0,Sony Computer Entertainment,0.0
+Adventure,2015.0,Take-Two Interactive,0.0
+Adventure,2015.0,Ubisoft,0.0
+Adventure,2016.0,Disney Interactive Studios,0.0
+Adventure,2016.0,Nintendo,0.0
+Adventure,2016.0,Sony Computer Entertainment,0.0
+Adventure,2016.0,Take-Two Interactive,0.0
+Adventure,2016.0,Ubisoft,0.0
+Fighting,2007.0,Capcom,0.09
+Fighting,2007.0,Namco Bandai Games,0.25
+Fighting,2007.0,Nintendo,0.0
+Fighting,2007.0,THQ,7.41
+Fighting,2007.0,Warner Bros. Interactive Entertainment,0.0
+Fighting,2008.0,Capcom,0.35
+Fighting,2008.0,Namco Bandai Games,2.4
+Fighting,2008.0,Nintendo,13.04
+Fighting,2008.0,THQ,4.88
+Fighting,2008.0,Warner Bros. Interactive Entertainment,0.0
+Fighting,2009.0,Capcom,7.19
+Fighting,2009.0,Namco Bandai Games,7.58
+Fighting,2009.0,Nintendo,0.52
+Fighting,2009.0,THQ,11.3
+Fighting,2009.0,Warner Bros. Interactive Entertainment,0.0
+Fighting,2010.0,Capcom,0.55
+Fighting,2010.0,Namco Bandai Games,4.15
+Fighting,2010.0,Nintendo,0.0
+Fighting,2010.0,THQ,6.5
+Fighting,2010.0,Warner Bros. Interactive Entertainment,0.0
+Fighting,2011.0,Capcom,4.15
+Fighting,2011.0,Namco Bandai Games,3.02
+Fighting,2011.0,Nintendo,0.0
+Fighting,2011.0,THQ,4.31
+Fighting,2011.0,Warner Bros. Interactive Entertainment,4.96
+Fighting,2012.0,Capcom,1.57
+Fighting,2012.0,Namco Bandai Games,4.3
+Fighting,2012.0,Nintendo,0.2
+Fighting,2012.0,THQ,0.0
+Fighting,2012.0,Warner Bros. Interactive Entertainment,0.76
+Fighting,2013.0,Capcom,0.03
+Fighting,2013.0,Namco Bandai Games,2.26
+Fighting,2013.0,Nintendo,0.0
+Fighting,2013.0,THQ,0.0
+Fighting,2013.0,Warner Bros. Interactive Entertainment,3.87
+Fighting,2014.0,Capcom,0.0
+Fighting,2014.0,Namco Bandai Games,2.48
+Fighting,2014.0,Nintendo,12.47
+Fighting,2014.0,THQ,0.0
+Fighting,2014.0,Warner Bros. Interactive Entertainment,0.0
+Fighting,2015.0,Capcom,0.1
+Fighting,2015.0,Namco Bandai Games,3.01
+Fighting,2015.0,Nintendo,0.0
+Fighting,2015.0,THQ,0.0
+Fighting,2015.0,Warner Bros. Interactive Entertainment,4.1
+Fighting,2016.0,Capcom,0.87
+Fighting,2016.0,Namco Bandai Games,2.74
+Fighting,2016.0,Nintendo,0.0
+Fighting,2016.0,THQ,0.0
+Fighting,2016.0,Warner Bros. Interactive Entertainment,0.0
+Misc,2007.0,Activision,19.48
+Misc,2007.0,Microsoft Game Studios,0.89
+Misc,2007.0,Nintendo,27.16
+Misc,2007.0,Sony Computer Entertainment,8.5
+Misc,2007.0,Ubisoft,7.41
+Misc,2008.0,Activision,21.28
+Misc,2008.0,Microsoft Game Studios,1.92
+Misc,2008.0,Nintendo,8.3
+Misc,2008.0,Sony Computer Entertainment,7.0
+Misc,2008.0,Ubisoft,7.2
+Misc,2009.0,Activision,17.51
+Misc,2009.0,Microsoft Game Studios,0.61
+Misc,2009.0,Nintendo,4.48
+Misc,2009.0,Sony Computer Entertainment,4.11
+Misc,2009.0,Ubisoft,10.78
+Misc,2010.0,Activision,5.67
+Misc,2010.0,Microsoft Game Studios,22.14
+Misc,2010.0,Nintendo,11.32
+Misc,2010.0,Sony Computer Entertainment,2.17
+Misc,2010.0,Ubisoft,19.3
+Misc,2011.0,Activision,4.64
+Misc,2011.0,Microsoft Game Studios,4.81
+Misc,2011.0,Nintendo,2.57
+Misc,2011.0,Sony Computer Entertainment,1.52
+Misc,2011.0,Ubisoft,22.05
+Misc,2012.0,Activision,0.73
+Misc,2012.0,Microsoft Game Studios,0.83
+Misc,2012.0,Nintendo,8.54
+Misc,2012.0,Sony Computer Entertainment,0.0
+Misc,2012.0,Ubisoft,9.77
+Misc,2013.0,Activision,0.0
+Misc,2013.0,Microsoft Game Studios,9.2
+Misc,2013.0,Nintendo,4.04
+Misc,2013.0,Sony Computer Entertainment,0.0
+Misc,2013.0,Ubisoft,9.3
+Misc,2014.0,Activision,0.0
+Misc,2014.0,Microsoft Game Studios,2.77
+Misc,2014.0,Nintendo,0.58
+Misc,2014.0,Sony Computer Entertainment,5.42
+Misc,2014.0,Ubisoft,6.08
+Misc,2015.0,Activision,2.02
+Misc,2015.0,Microsoft Game Studios,0.75
+Misc,2015.0,Nintendo,3.39
+Misc,2015.0,Sony Computer Entertainment,0.0
+Misc,2015.0,Ubisoft,3.16
+Misc,2016.0,Activision,0.0
+Misc,2016.0,Microsoft Game Studios,0.43
+Misc,2016.0,Nintendo,0.0
+Misc,2016.0,Sony Computer Entertainment,0.0
+Misc,2016.0,Ubisoft,0.0
+Platform,2007.0,Activision,3.42
+Platform,2007.0,Nintendo,16.5
+Platform,2007.0,Sega,4.36
+Platform,2007.0,Sony Computer Entertainment,6.39
+Platform,2007.0,Ubisoft,0.0
+Platform,2008.0,Activision,0.0
+Platform,2008.0,Nintendo,5.61
+Platform,2008.0,Sega,5.05
+Platform,2008.0,Sony Computer Entertainment,7.92
+Platform,2008.0,Ubisoft,0.05
+Platform,2009.0,Activision,0.0
+Platform,2009.0,Nintendo,28.62
+Platform,2009.0,Sega,1.15
+Platform,2009.0,Sony Computer Entertainment,6.13
+Platform,2009.0,Ubisoft,2.48
+Platform,2010.0,Activision,0.9
+Platform,2010.0,Nintendo,19.0
+Platform,2010.0,Sega,5.08
+Platform,2010.0,Sony Computer Entertainment,0.81
+Platform,2010.0,Ubisoft,0.0
+Platform,2011.0,Activision,0.1
+Platform,2011.0,Nintendo,13.53
+Platform,2011.0,Sega,4.39
+Platform,2011.0,Sony Computer Entertainment,5.07
+Platform,2011.0,Ubisoft,3.52
+Platform,2012.0,Activision,0.0
+Platform,2012.0,Nintendo,15.01
+Platform,2012.0,Sega,0.12
+Platform,2012.0,Sony Computer Entertainment,2.36
+Platform,2012.0,Ubisoft,0.82
+Platform,2013.0,Activision,6.26
+Platform,2013.0,Nintendo,10.88
+Platform,2013.0,Sega,0.89
+Platform,2013.0,Sony Computer Entertainment,0.0
+Platform,2013.0,Ubisoft,2.46
+Platform,2014.0,Activision,0.0
+Platform,2014.0,Nintendo,4.7
+Platform,2014.0,Sega,0.0
+Platform,2014.0,Sony Computer Entertainment,2.61
+Platform,2014.0,Ubisoft,1.56
+Platform,2015.0,Activision,0.17
+Platform,2015.0,Nintendo,5.24
+Platform,2015.0,Sega,0.0
+Platform,2015.0,Sony Computer Entertainment,0.25
+Platform,2015.0,Ubisoft,0.0
+Platform,2016.0,Activision,0.0
+Platform,2016.0,Nintendo,0.0
+Platform,2016.0,Sega,0.03
+Platform,2016.0,Sony Computer Entertainment,1.17
+Platform,2016.0,Ubisoft,0.0
+Puzzle,2007.0,Electronic Arts,0.0
+Puzzle,2007.0,Nintendo,11.87
+Puzzle,2007.0,THQ,0.4
+Puzzle,2007.0,Ubisoft,0.64
+Puzzle,2007.0,Warner Bros. Interactive Entertainment,0.0
+Puzzle,2008.0,Electronic Arts,3.25
+Puzzle,2008.0,Nintendo,3.36
+Puzzle,2008.0,THQ,0.18
+Puzzle,2008.0,Ubisoft,1.81
+Puzzle,2008.0,Warner Bros. Interactive Entertainment,0.0
+Puzzle,2009.0,Electronic Arts,0.78
+Puzzle,2009.0,Nintendo,3.56
+Puzzle,2009.0,THQ,2.04
+Puzzle,2009.0,Ubisoft,1.69
+Puzzle,2009.0,Warner Bros. Interactive Entertainment,4.63
+Puzzle,2010.0,Electronic Arts,0.0
+Puzzle,2010.0,Nintendo,4.05
+Puzzle,2010.0,THQ,1.16
+Puzzle,2010.0,Ubisoft,0.19
+Puzzle,2010.0,Warner Bros. Interactive Entertainment,1.81
+Puzzle,2011.0,Electronic Arts,0.0
+Puzzle,2011.0,Nintendo,1.78
+Puzzle,2011.0,THQ,0.0
+Puzzle,2011.0,Ubisoft,0.08
+Puzzle,2011.0,Warner Bros. Interactive Entertainment,0.0
+Puzzle,2012.0,Electronic Arts,0.0
+Puzzle,2012.0,Nintendo,0.09
+Puzzle,2012.0,THQ,0.0
+Puzzle,2012.0,Ubisoft,0.0
+Puzzle,2012.0,Warner Bros. Interactive Entertainment,0.0
+Puzzle,2013.0,Electronic Arts,0.0
+Puzzle,2013.0,Nintendo,0.78
+Puzzle,2013.0,THQ,0.0
+Puzzle,2013.0,Ubisoft,0.0
+Puzzle,2013.0,Warner Bros. Interactive Entertainment,0.21
+Puzzle,2014.0,Electronic Arts,0.0
+Puzzle,2014.0,Nintendo,1.19
+Puzzle,2014.0,THQ,0.0
+Puzzle,2014.0,Ubisoft,0.01
+Puzzle,2014.0,Warner Bros. Interactive Entertainment,0.0
+Puzzle,2015.0,Electronic Arts,0.0
+Puzzle,2015.0,Nintendo,0.64
+Puzzle,2015.0,THQ,0.0
+Puzzle,2015.0,Ubisoft,0.0
+Puzzle,2015.0,Warner Bros. Interactive Entertainment,0.0
+Puzzle,2016.0,Electronic Arts,0.0
+Puzzle,2016.0,Nintendo,0.0
+Puzzle,2016.0,THQ,0.0
+Puzzle,2016.0,Ubisoft,0.0
+Puzzle,2016.0,Warner Bros. Interactive Entertainment,0.0
+Racing,2007.0,Codemasters,1.97
+Racing,2007.0,Electronic Arts,9.02
+Racing,2007.0,Microsoft Game Studios,6.11
+Racing,2007.0,Nintendo,1.88
+Racing,2007.0,Sony Computer Entertainment,4.52
+Racing,2008.0,Codemasters,2.01
+Racing,2008.0,Electronic Arts,12.07
+Racing,2008.0,Microsoft Game Studios,0.0
+Racing,2008.0,Nintendo,35.82
+Racing,2008.0,Sony Computer Entertainment,1.37
+Racing,2009.0,Codemasters,4.37
+Racing,2009.0,Electronic Arts,8.42
+Racing,2009.0,Microsoft Game Studios,5.51
+Racing,2009.0,Nintendo,0.28
+Racing,2009.0,Sony Computer Entertainment,5.55
+Racing,2010.0,Codemasters,2.3
+Racing,2010.0,Electronic Arts,5.89
+Racing,2010.0,Microsoft Game Studios,1.49
+Racing,2010.0,Nintendo,0.0
+Racing,2010.0,Sony Computer Entertainment,12.44
+Racing,2011.0,Codemasters,4.42
+Racing,2011.0,Electronic Arts,1.32
+Racing,2011.0,Microsoft Game Studios,4.64
+Racing,2011.0,Nintendo,12.21
+Racing,2011.0,Sony Computer Entertainment,0.49
+Racing,2012.0,Codemasters,2.81
+Racing,2012.0,Electronic Arts,5.71
+Racing,2012.0,Microsoft Game Studios,2.02
+Racing,2012.0,Nintendo,0.0
+Racing,2012.0,Sony Computer Entertainment,0.8
+Racing,2013.0,Codemasters,1.71
+Racing,2013.0,Electronic Arts,5.39
+Racing,2013.0,Microsoft Game Studios,2.18
+Racing,2013.0,Nintendo,0.0
+Racing,2013.0,Sony Computer Entertainment,3.64
+Racing,2014.0,Codemasters,1.19
+Racing,2014.0,Electronic Arts,0.0
+Racing,2014.0,Microsoft Game Studios,2.22
+Racing,2014.0,Nintendo,6.96
+Racing,2014.0,Sony Computer Entertainment,2.0
+Racing,2015.0,Codemasters,0.95
+Racing,2015.0,Electronic Arts,3.07
+Racing,2015.0,Microsoft Game Studios,1.74
+Racing,2015.0,Nintendo,0.0
+Racing,2015.0,Sony Computer Entertainment,0.0
+Racing,2016.0,Codemasters,0.84
+Racing,2016.0,Electronic Arts,0.03
+Racing,2016.0,Microsoft Game Studios,0.38
+Racing,2016.0,Nintendo,0.0
+Racing,2016.0,Sony Computer Entertainment,0.0
+Role-Playing,2007.0,Bethesda Softworks,0.0
+Role-Playing,2007.0,Electronic Arts,0.08
+Role-Playing,2007.0,Namco Bandai Games,1.59
+Role-Playing,2007.0,Nintendo,5.54
+Role-Playing,2007.0,Square Enix,14.38
+Role-Playing,2008.0,Bethesda Softworks,9.96
+Role-Playing,2008.0,Electronic Arts,0.68
+Role-Playing,2008.0,Namco Bandai Games,1.2
+Role-Playing,2008.0,Nintendo,12.94
+Role-Playing,2008.0,Square Enix,6.97
+Role-Playing,2009.0,Bethesda Softworks,0.34
+Role-Playing,2009.0,Electronic Arts,4.77
+Role-Playing,2009.0,Namco Bandai Games,3.67
+Role-Playing,2009.0,Nintendo,14.92
+Role-Playing,2009.0,Square Enix,10.08
+Role-Playing,2010.0,Bethesda Softworks,8.41
+Role-Playing,2010.0,Electronic Arts,4.3
+Role-Playing,2010.0,Namco Bandai Games,1.74
+Role-Playing,2010.0,Nintendo,21.17
+Role-Playing,2010.0,Square Enix,11.34
+Role-Playing,2011.0,Bethesda Softworks,19.28
+Role-Playing,2011.0,Electronic Arts,4.57
+Role-Playing,2011.0,Namco Bandai Games,7.77
+Role-Playing,2011.0,Nintendo,4.6
+Role-Playing,2011.0,Square Enix,6.57
+Role-Playing,2012.0,Bethesda Softworks,0.0
+Role-Playing,2012.0,Electronic Arts,7.85
+Role-Playing,2012.0,Namco Bandai Games,2.52
+Role-Playing,2012.0,Nintendo,18.36
+Role-Playing,2012.0,Square Enix,2.03
+Role-Playing,2013.0,Bethesda Softworks,0.0
+Role-Playing,2013.0,Electronic Arts,0.0
+Role-Playing,2013.0,Namco Bandai Games,2.55
+Role-Playing,2013.0,Nintendo,18.39
+Role-Playing,2013.0,Square Enix,8.73
+Role-Playing,2014.0,Bethesda Softworks,0.9
+Role-Playing,2014.0,Electronic Arts,4.81
+Role-Playing,2014.0,Namco Bandai Games,3.3
+Role-Playing,2014.0,Nintendo,18.79
+Role-Playing,2014.0,Square Enix,4.34
+Role-Playing,2015.0,Bethesda Softworks,15.27
+Role-Playing,2015.0,Electronic Arts,0.0
+Role-Playing,2015.0,Namco Bandai Games,9.24
+Role-Playing,2015.0,Nintendo,5.56
+Role-Playing,2015.0,Square Enix,2.8
+Role-Playing,2016.0,Bethesda Softworks,0.0
+Role-Playing,2016.0,Electronic Arts,0.0
+Role-Playing,2016.0,Namco Bandai Games,2.57
+Role-Playing,2016.0,Nintendo,0.0
+Role-Playing,2016.0,Square Enix,2.22
+Shooter,2007.0,Activision,20.93
+Shooter,2007.0,Electronic Arts,7.86
+Shooter,2007.0,Microsoft Game Studios,14.01
+Shooter,2007.0,Take-Two Interactive,4.35
+Shooter,2007.0,Ubisoft,4.89
+Shooter,2008.0,Activision,18.84
+Shooter,2008.0,Electronic Arts,12.6
+Shooter,2008.0,Microsoft Game Studios,6.76
+Shooter,2008.0,Take-Two Interactive,1.45
+Shooter,2008.0,Ubisoft,6.74
+Shooter,2009.0,Activision,31.65
+Shooter,2009.0,Electronic Arts,5.56
+Shooter,2009.0,Microsoft Game Studios,6.36
+Shooter,2009.0,Take-Two Interactive,5.73
+Shooter,2009.0,Ubisoft,1.53
+Shooter,2010.0,Activision,32.09
+Shooter,2010.0,Electronic Arts,15.31
+Shooter,2010.0,Microsoft Game Studios,11.0
+Shooter,2010.0,Take-Two Interactive,3.89
+Shooter,2010.0,Ubisoft,0.87
+Shooter,2011.0,Activision,32.58
+Shooter,2011.0,Electronic Arts,22.36
+Shooter,2011.0,Microsoft Game Studios,9.09
+Shooter,2011.0,Take-Two Interactive,2.02
+Shooter,2011.0,Ubisoft,1.35
+Shooter,2012.0,Activision,30.51
+Shooter,2012.0,Electronic Arts,0.18
+Shooter,2012.0,Microsoft Game Studios,9.76
+Shooter,2012.0,Take-Two Interactive,12.36
+Shooter,2012.0,Ubisoft,10.15
+Shooter,2013.0,Activision,28.83
+Shooter,2013.0,Electronic Arts,17.28
+Shooter,2013.0,Microsoft Game Studios,1.61
+Shooter,2013.0,Take-Two Interactive,4.97
+Shooter,2013.0,Ubisoft,0.0
+Shooter,2014.0,Activision,34.59
+Shooter,2014.0,Electronic Arts,8.09
+Shooter,2014.0,Microsoft Game Studios,4.26
+Shooter,2014.0,Take-Two Interactive,2.54
+Shooter,2014.0,Ubisoft,8.68
+Shooter,2015.0,Activision,29.19
+Shooter,2015.0,Electronic Arts,15.96
+Shooter,2015.0,Microsoft Game Studios,7.26
+Shooter,2015.0,Take-Two Interactive,3.0
+Shooter,2015.0,Ubisoft,3.66
+Shooter,2016.0,Activision,3.15
+Shooter,2016.0,Electronic Arts,0.94
+Shooter,2016.0,Microsoft Game Studios,0.0
+Shooter,2016.0,Take-Two Interactive,0.7
+Shooter,2016.0,Ubisoft,5.99
+Simulation,2007.0,505 Games,6.82
+Simulation,2007.0,Electronic Arts,9.79
+Simulation,2007.0,Konami Digital Entertainment,4.08
+Simulation,2007.0,Nintendo,0.3
+Simulation,2007.0,Ubisoft,15.89
+Simulation,2008.0,505 Games,1.89
+Simulation,2008.0,Electronic Arts,8.74
+Simulation,2008.0,Konami Digital Entertainment,4.12
+Simulation,2008.0,Nintendo,7.39
+Simulation,2008.0,Ubisoft,13.93
+Simulation,2009.0,505 Games,4.62
+Simulation,2009.0,Electronic Arts,12.28
+Simulation,2009.0,Konami Digital Entertainment,3.34
+Simulation,2009.0,Nintendo,0.88
+Simulation,2009.0,Ubisoft,5.72
+Simulation,2010.0,505 Games,1.59
+Simulation,2010.0,Electronic Arts,10.04
+Simulation,2010.0,Konami Digital Entertainment,1.29
+Simulation,2010.0,Nintendo,0.27
+Simulation,2010.0,Ubisoft,0.82
+Simulation,2011.0,505 Games,0.88
+Simulation,2011.0,Electronic Arts,3.11
+Simulation,2011.0,Konami Digital Entertainment,1.94
+Simulation,2011.0,Nintendo,4.77
+Simulation,2011.0,Ubisoft,0.56
+Simulation,2012.0,505 Games,0.0
+Simulation,2012.0,Electronic Arts,0.17
+Simulation,2012.0,Konami Digital Entertainment,1.44
+Simulation,2012.0,Nintendo,9.81
+Simulation,2012.0,Ubisoft,0.11
+Simulation,2013.0,505 Games,0.0
+Simulation,2013.0,Electronic Arts,1.44
+Simulation,2013.0,Konami Digital Entertainment,0.0
+Simulation,2013.0,Nintendo,5.15
+Simulation,2013.0,Ubisoft,0.0
+Simulation,2014.0,505 Games,0.0
+Simulation,2014.0,Electronic Arts,2.97
+Simulation,2014.0,Konami Digital Entertainment,0.0
+Simulation,2014.0,Nintendo,0.4
+Simulation,2014.0,Ubisoft,0.0
+Simulation,2015.0,505 Games,0.0
+Simulation,2015.0,Electronic Arts,0.25
+Simulation,2015.0,Konami Digital Entertainment,0.0
+Simulation,2015.0,Nintendo,2.98
+Simulation,2015.0,Ubisoft,0.0
+Simulation,2016.0,505 Games,0.0
+Simulation,2016.0,Electronic Arts,0.0
+Simulation,2016.0,Konami Digital Entertainment,0.0
+Simulation,2016.0,Nintendo,0.02
+Simulation,2016.0,Ubisoft,0.0
+Sports,2007.0,Electronic Arts,30.24
+Sports,2007.0,Konami Digital Entertainment,8.41
+Sports,2007.0,Nintendo,25.63
+Sports,2007.0,Sega,9.87
+Sports,2007.0,Take-Two Interactive,6.26
+Sports,2008.0,Electronic Arts,30.85
+Sports,2008.0,Konami Digital Entertainment,12.21
+Sports,2008.0,Nintendo,2.72
+Sports,2008.0,Sega,13.51
+Sports,2008.0,Take-Two Interactive,5.03
+Sports,2009.0,Electronic Arts,34.97
+Sports,2009.0,Konami Digital Entertainment,7.74
+Sports,2009.0,Nintendo,56.67
+Sports,2009.0,Sega,9.99
+Sports,2009.0,Take-Two Interactive,5.93
+Sports,2010.0,Electronic Arts,36.31
+Sports,2010.0,Konami Digital Entertainment,7.01
+Sports,2010.0,Nintendo,2.18
+Sports,2010.0,Sega,2.39
+Sports,2010.0,Take-Two Interactive,2.62
+Sports,2011.0,Electronic Arts,24.22
+Sports,2011.0,Konami Digital Entertainment,1.78
+Sports,2011.0,Nintendo,0.0
+Sports,2011.0,Sega,6.99
+Sports,2011.0,Take-Two Interactive,8.3
+Sports,2012.0,Electronic Arts,13.82
+Sports,2012.0,Konami Digital Entertainment,2.97
+Sports,2012.0,Nintendo,1.05
+Sports,2012.0,Sega,3.65
+Sports,2012.0,Take-Two Interactive,7.2
+Sports,2013.0,Electronic Arts,26.82
+Sports,2013.0,Konami Digital Entertainment,0.99
+Sports,2013.0,Nintendo,1.69
+Sports,2013.0,Sega,1.09
+Sports,2013.0,Take-Two Interactive,9.66
+Sports,2014.0,Electronic Arts,30.93
+Sports,2014.0,Konami Digital Entertainment,2.34
+Sports,2014.0,Nintendo,0.88
+Sports,2014.0,Sega,0.0
+Sports,2014.0,Take-Two Interactive,10.29
+Sports,2015.0,Electronic Arts,25.27
+Sports,2015.0,Konami Digital Entertainment,1.5
+Sports,2015.0,Nintendo,0.45
+Sports,2015.0,Sega,0.0
+Sports,2015.0,Take-Two Interactive,10.89
+Sports,2016.0,Electronic Arts,10.76
+Sports,2016.0,Konami Digital Entertainment,1.21
+Sports,2016.0,Nintendo,0.0
+Sports,2016.0,Sega,0.0
+Sports,2016.0,Take-Two Interactive,1.93
+Strategy,2007.0,Activision,0.0
+Strategy,2007.0,Namco Bandai Games,0.64
+Strategy,2007.0,Sega,0.39
+Strategy,2007.0,Take-Two Interactive,0.2
+Strategy,2007.0,Ubisoft,0.08
+Strategy,2008.0,Activision,0.0
+Strategy,2008.0,Namco Bandai Games,0.9
+Strategy,2008.0,Sega,0.54
+Strategy,2008.0,Take-Two Interactive,2.08
+Strategy,2008.0,Ubisoft,2.6
+Strategy,2009.0,Activision,0.0
+Strategy,2009.0,Namco Bandai Games,1.05
+Strategy,2009.0,Sega,1.49
+Strategy,2009.0,Take-Two Interactive,0.13
+Strategy,2009.0,Ubisoft,0.69
+Strategy,2010.0,Activision,4.83
+Strategy,2010.0,Namco Bandai Games,0.73
+Strategy,2010.0,Sega,0.66
+Strategy,2010.0,Take-Two Interactive,1.85
+Strategy,2010.0,Ubisoft,1.91
+Strategy,2011.0,Activision,0.09
+Strategy,2011.0,Namco Bandai Games,0.86
+Strategy,2011.0,Sega,0.59
+Strategy,2011.0,Take-Two Interactive,0.1
+Strategy,2011.0,Ubisoft,2.18
+Strategy,2012.0,Activision,0.0
+Strategy,2012.0,Namco Bandai Games,0.97
+Strategy,2012.0,Sega,0.2
+Strategy,2012.0,Take-Two Interactive,1.96
+Strategy,2012.0,Ubisoft,0.0
+Strategy,2013.0,Activision,3.57
+Strategy,2013.0,Namco Bandai Games,0.12
+Strategy,2013.0,Sega,0.76
+Strategy,2013.0,Take-Two Interactive,0.0
+Strategy,2013.0,Ubisoft,0.0
+Strategy,2014.0,Activision,0.03
+Strategy,2014.0,Namco Bandai Games,0.44
+Strategy,2014.0,Sega,0.0
+Strategy,2014.0,Take-Two Interactive,0.37
+Strategy,2014.0,Ubisoft,0.0
+Strategy,2015.0,Activision,0.51
+Strategy,2015.0,Namco Bandai Games,0.0
+Strategy,2015.0,Sega,0.23
+Strategy,2015.0,Take-Two Interactive,0.06
+Strategy,2015.0,Ubisoft,0.34
+Strategy,2016.0,Activision,0.0
+Strategy,2016.0,Namco Bandai Games,0.0
+Strategy,2016.0,Sega,0.1
+Strategy,2016.0,Take-Two Interactive,0.26
+Strategy,2016.0,Ubisoft,0.0
